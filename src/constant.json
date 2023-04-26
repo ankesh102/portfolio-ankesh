@@ -1,0 +1,53 @@
+{
+    "experiences" : [
+    {
+    "company" : "Lovely Professional University",
+    "link" : "Ankesh img.png",
+    "title" : "Student",
+    "duration" : "2020- 2024" ,
+    "desc" : [
+    "Student at Lovely Professional University",
+    "Student at Lovely Professional University"
+    ]
+    },
+    {
+    "company" : "Ojaswi Student Organisation",
+    "link" : "",
+    "title" : "Event Management",
+    "duration" : "April 2021 - Feb 2022" ,
+    "desc" : [
+    "I have Worked their as a Event management student  "
+    
+    ]
+    },
+    {
+    "company" : "Self",
+    "link" : "#",
+    "title" : "Full Stack Web Developer",
+    "duration" : "April 2021 - ____" ,
+    "desc" : [
+    "Web Development Enthausiast ,  ",
+    "Experienced : ReactJs, HTML-5, CSS , JavaScript, Angular(basics)  "
+    ]
+    }
+    ],
+    
+    "projects": [
+    {
+    "title" : "Weather App using API" ,
+    "image" : "project1.jpg",
+    "desc" : "This App will help to know the exact weather of almost every location",
+    "skills" : ["HTML-5","CSS","JavaScript","API"],
+    "github" : "https://github.com/ankesh102/Weather-App-Using-API",
+    "link" : "ankeshweatherapp.netlify.app/ "
+    },
+    {
+    "title" : "Placement Portal" ,
+    "image" : "project2.jpg",
+    "desc" : "Fantastic UI and fronend design and temprary backend",
+    "skills" : ["HTML-5","CSS","JavaScript","J-Query","BootStrap"],
+    "github" : "https://github.com/ankesh102/Placement-Portal",
+    "link" : "ankesh102.github.io/Placement-Portal/ "
+    }
+    ]
+    }
